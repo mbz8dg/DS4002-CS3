@@ -4,11 +4,11 @@ This case study asks data science students to compare compound sentiment scores 
 
 
 ## DATA:
-Example data is included in materials: Additional data should be found
+Example data is included in materials: Additional data should be found here:
 
-You can find  data from https://finance.yahoo.com by selecting a given stock, the navigating to historical data, finally select your time period of study and click  download.
+-You can find  data from https://finance.yahoo.com by selecting a given stock, the navigating to historical data, finally select your time period of study and click  download.
 
-You can find text data for most stocks from “Stock News” API from databar.ai at https://databar.ai/explore/financial-modeling-prep/stock-news 
+-You can find text data for most stocks from “Stock News” API from databar.ai at https://databar.ai/explore/financial-modeling-prep/stock-news 
 
 ## REFERENCES:
 
